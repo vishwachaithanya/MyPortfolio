@@ -19,22 +19,21 @@ export function Projects() {
       description: "A comprehensive Learning Management System built for mobile users, featuring course tracking and student progress monitoring.",
       link: "https://github.com/vishwachaithanya/LMS",
       techStack: ["React Native", "JavaScript", "Redux", "CSS"],
-      imageUrl: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=800&auto=format&fit=crop&q=60"
+      imageUrl: "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=800&auto=format&fit=crop&q=80"
     },
     {
       title: "Employee Management System",
       description: "A secure Java-based application with role-based access control. Managers can add, edit, and delete employees, while employees can manage their own profiles.",
       link: "https://github.com/vishwachaithanya/JavaServletProject",
       techStack: ["Java", "Spring Boot", "MySQL"],
-      imageUrl: "https://images.unsplash.com/photo-1454165205770-355438837767?w=800&auto=format&fit=crop&q=60"
+      imageUrl: "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=800&auto=format&fit=crop&q=80"
     },
     {
       title: "Product Management System",
       description: "A feature-rich dashboard for managing inventory with search functionality and Firebase Analytics integration for event tracking.",
       link: "https://product-mangement-new.vercel.app/",
       techStack: ["React", "Firebase", "HTML", "CSS", "JavaScript"],
-      imageUrl: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&auto=format&fit=crop&q=60"
-    }
+imageUrl: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&auto=format&fit=crop&q=80"    }
   ];
 
   const container = {
