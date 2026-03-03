@@ -60,6 +60,10 @@ export function Contact() {
               <MapPin size={20} />
               <span>Hyderabad, India</span>
             </div>
+            <div className="flex items-center gap-4">
+              <Phone size={20} />
+              <span>+91 9885487227</span>
+            </div>
           </div>
         </motion.div>
 
